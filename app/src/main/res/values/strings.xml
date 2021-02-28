@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shift 2021</string>
+    <string name="city_format">City: %1$s</string>
+    <string name="degree_format">Degree: %1$d C</string>
+    <string name="description_absent">No description</string>
+    <string name="weather_city_format">%1$s, %2$s</string>
+    <string name="save_button">Save</string>
+</resources>
