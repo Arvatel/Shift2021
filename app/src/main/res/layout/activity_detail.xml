@@ -7,15 +7,6 @@
     tools:context=".detail.DetailActivity">
 
     <TextView
-        android:id="@+id/cityText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="24dp"
-        android:textColor="@color/purple_500"
-        android:textSize="16sp"
-        tools:text="City: Tomsk" />
-
-    <TextView
         android:id="@+id/degreeText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -23,6 +14,15 @@
         android:textColor="@color/purple_700"
         android:textSize="16sp"
         tools:text="Degree: -32 C" />
+
+    <TextView
+        android:id="@+id/cityText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="24dp"
+        android:textColor="@color/purple_500"
+        android:textSize="16sp"
+        tools:text="City: Tomsk" />
 
     <EditText
         android:id="@+id/descriptionInput"
